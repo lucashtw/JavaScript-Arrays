@@ -52,4 +52,4 @@ splice()
 //e incluir um ou mais elementos a partir de um índice escolhido.
 
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+//https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
